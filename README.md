@@ -23,11 +23,3 @@ This Jupyter Notebook demonstrates:
 - `causalimpact` (Python wrapper)
 
 ---
-
-## Setup Instructions
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/sales-impact-causal-analysis.git
-cd sales-impact-causal-analysis
